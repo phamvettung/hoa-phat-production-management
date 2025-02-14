@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="OperatorDataDs" targetNamespace="http://tempuri.org/OperatorDataDs.xsd" xmlns:mstns="http://tempuri.org/OperatorDataDs.xsd" xmlns="http://tempuri.org/OperatorDataDs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="OperatorDataDs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="OperatorDataDs" msprop:Generator_DataSetName="OperatorDataDs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="OperatorDataTable" msprop:Generator_RowEvHandlerName="OperatorDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="OperatorDataTableRowDeleted" msprop:Generator_RowDeletingName="OperatorDataTableRowDeleting" msprop:Generator_RowEvArgName="OperatorDataTableRowChangeEvent" msprop:Generator_TablePropName="OperatorDataTable" msprop:Generator_RowChangedName="OperatorDataTableRowChanged" msprop:Generator_RowChangingName="OperatorDataTableRowChanging" msprop:Generator_TableClassName="OperatorDataTableDataTable" msprop:Generator_RowClassName="OperatorDataTableRow" msprop:Generator_TableVarName="tableOperatorDataTable" msprop:Generator_UserTableName="OperatorDataTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="numOrder" msprop:Generator_ColumnPropNameInRow="numOrder" msprop:Generator_ColumnPropNameInTable="numOrderColumn" msprop:Generator_ColumnVarNameInTable="columnnumOrder" msprop:Generator_UserColumnName="numOrder" type="xs:string" minOccurs="0" />
+              <xs:element name="id" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_UserColumnName="id" type="xs:string" minOccurs="0" />
+              <xs:element name="numOperator" msprop:Generator_ColumnPropNameInRow="numOperator" msprop:Generator_ColumnPropNameInTable="numOperatorColumn" msprop:Generator_ColumnVarNameInTable="columnnumOperator" msprop:Generator_UserColumnName="numOperator" type="xs:string" minOccurs="0" />
+              <xs:element name="modelCode" msprop:Generator_ColumnPropNameInRow="modelCode" msprop:Generator_ColumnPropNameInTable="modelCodeColumn" msprop:Generator_ColumnVarNameInTable="columnmodelCode" msprop:Generator_UserColumnName="modelCode" type="xs:string" minOccurs="0" />
+              <xs:element name="date" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnPropNameInTable="dateColumn" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_UserColumnName="date" type="xs:string" minOccurs="0" />
+              <xs:element name="startTime" msprop:Generator_ColumnPropNameInRow="startTime" msprop:Generator_ColumnPropNameInTable="startTimeColumn" msprop:Generator_ColumnVarNameInTable="columnstartTime" msprop:Generator_UserColumnName="startTime" type="xs:string" minOccurs="0" />
+              <xs:element name="endTime" msprop:Generator_ColumnPropNameInRow="endTime" msprop:Generator_ColumnPropNameInTable="endTimeColumn" msprop:Generator_ColumnVarNameInTable="columnendTime" msprop:Generator_UserColumnName="endTime" type="xs:string" minOccurs="0" />
+              <xs:element name="completedTime" msprop:Generator_ColumnPropNameInRow="completedTime" msprop:Generator_ColumnPropNameInTable="completedTimeColumn" msprop:Generator_ColumnVarNameInTable="columncompletedTime" msprop:Generator_UserColumnName="completedTime" type="xs:string" minOccurs="0" />
+              <xs:element name="excutionSecond" msprop:Generator_ColumnPropNameInRow="excutionSecond" msprop:Generator_ColumnPropNameInTable="excutionSecondColumn" msprop:Generator_ColumnVarNameInTable="columnexcutionSecond" msprop:Generator_UserColumnName="excutionSecond" type="xs:string" minOccurs="0" />
+              <xs:element name="isReach" msprop:Generator_ColumnPropNameInRow="isReach" msprop:Generator_ColumnPropNameInTable="isReachColumn" msprop:Generator_ColumnVarNameInTable="columnisReach" msprop:Generator_UserColumnName="isReach" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

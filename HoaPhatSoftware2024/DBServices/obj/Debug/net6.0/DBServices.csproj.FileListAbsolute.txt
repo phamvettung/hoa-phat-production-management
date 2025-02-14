@@ -1,0 +1,15 @@
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\bin\Debug\net6.0\DBServices.deps.json
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\bin\Debug\net6.0\DBServices.dll
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\bin\Debug\net6.0\DBServices.pdb
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.AssemblyInfoInputs.cache
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.AssemblyInfo.cs
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.csproj.CoreCompileInputs.cache
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.dll
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\refint\DBServices.dll
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.pdb
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\ref\DBServices.dll
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\bin\Debug\net6.0\DBRepositories.dll
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\bin\Debug\net6.0\DBRepositories.pdb
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.csproj.AssemblyReference.cache
+D:\IT\Hoa Phat 2024\HoaPhatSoftware2024\DBServices\obj\Debug\net6.0\DBServices.csproj.Up2Date

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ModelDataDs" targetNamespace="http://tempuri.org/ModelDataDs.xsd" xmlns:mstns="http://tempuri.org/ModelDataDs.xsd" xmlns="http://tempuri.org/ModelDataDs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ModelDataDs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="ModelDataDs" msprop:Generator_DataSetName="ModelDataDs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ModelDataTable" msprop:Generator_RowEvHandlerName="ModelDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="ModelDataTableRowDeleted" msprop:Generator_RowDeletingName="ModelDataTableRowDeleting" msprop:Generator_RowEvArgName="ModelDataTableRowChangeEvent" msprop:Generator_TablePropName="ModelDataTable" msprop:Generator_RowChangedName="ModelDataTableRowChanged" msprop:Generator_RowChangingName="ModelDataTableRowChanging" msprop:Generator_TableClassName="ModelDataTableDataTable" msprop:Generator_RowClassName="ModelDataTableRow" msprop:Generator_TableVarName="tableModelDataTable" msprop:Generator_UserTableName="ModelDataTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_UserColumnName="id" type="xs:string" minOccurs="0" />
+              <xs:element name="date" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnPropNameInTable="dateColumn" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_UserColumnName="date" type="xs:string" minOccurs="0" />
+              <xs:element name="modelCode" msprop:Generator_ColumnPropNameInRow="modelCode" msprop:Generator_ColumnPropNameInTable="modelCodeColumn" msprop:Generator_ColumnVarNameInTable="columnmodelCode" msprop:Generator_UserColumnName="modelCode" type="xs:string" minOccurs="0" />
+              <xs:element name="expectedOutput" msprop:Generator_ColumnPropNameInRow="expectedOutput" msprop:Generator_ColumnPropNameInTable="expectedOutputColumn" msprop:Generator_ColumnVarNameInTable="columnexpectedOutput" msprop:Generator_UserColumnName="expectedOutput" type="xs:string" minOccurs="0" />
+              <xs:element name="actualOutput" msprop:Generator_ColumnPropNameInRow="actualOutput" msprop:Generator_ColumnPropNameInTable="actualOutputColumn" msprop:Generator_ColumnVarNameInTable="columnactualOutput" msprop:Generator_UserColumnName="actualOutput" type="xs:string" minOccurs="0" />
+              <xs:element name="isReach" msprop:Generator_ColumnPropNameInRow="isReach" msprop:Generator_ColumnPropNameInTable="isReachColumn" msprop:Generator_ColumnVarNameInTable="columnisReach" msprop:Generator_UserColumnName="isReach" type="xs:string" minOccurs="0" />
+              <xs:element name="numOrder" msprop:Generator_ColumnPropNameInRow="numOrder" msprop:Generator_ColumnPropNameInTable="numOrderColumn" msprop:Generator_ColumnVarNameInTable="columnnumOrder" msprop:Generator_UserColumnName="numOrder" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

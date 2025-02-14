@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DBRepositoriesExtension/1.0.0": {
+        "runtime": {
+          "DBRepositoriesExtension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBRepositoriesExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
