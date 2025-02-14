@@ -12,7 +12,7 @@ Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắ
 - Kết nối với Đầu đọc mã vạch Hikrobot qua kết nối TCP/IP
 - Kết nối với Đầu đọc Cân qua chuẩn truyền thông RS232
 ### CÁC CÔNG NGHỆ SỬ DỤNG
-- Windows Form, Entity Framework, MS SQL Server
+- Windows Forms, Entity Framework, MS SQL Server
 - Ngôn ngữ: C#
 ### HOẠT ĐỘNG HỆ THỐNG
 https://github.com/user-attachments/assets/acb1855b-7caf-45d5-8e40-e80cb79dbbca
