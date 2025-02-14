@@ -8,9 +8,9 @@ Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắ
 - Quản lý Model: thêm, sửa, xóa, cài đặt thời gian thực hiện cho công đoạn của từng Model.
 - Cài đặt khối lượng cho từng model và sai số cho phép.
 - Thu thập số serial (barcode dán trên máy) và khối lượng. Đưa ra đánh giá OK/NG và gửi tín hiệu đèn xanh (OK), đèn đỏ (NG) xuống băng chuyền.
-- Kết nối với Bộ điều khiển PLC Mitsubishi sử dụng thư viện MX Component
-- Kết nối với Đầu đọc mã vạch Hikrobot qua kết nối TCP/IP
-- Kết nối với Đầu đọc Cân qua chuẩn truyền thông RS232
+- Kết nối với Bộ điều khiển PLC Mitsubishi sử dụng thư viện MX Component.
+- Kết nối với Đầu đọc mã vạch Hikrobot qua kết nối TCP/IP.
+- Kết nối với Đầu đọc Cân qua chuẩn truyền thông RS232.
 ### CÁC CÔNG NGHỆ SỬ DỤNG
 - Windows Forms, Entity Framework, MS SQL Server
 - Ngôn ngữ: C#
