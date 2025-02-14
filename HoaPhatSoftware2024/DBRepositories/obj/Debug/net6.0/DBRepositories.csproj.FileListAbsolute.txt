@@ -27,3 +27,18 @@ D:\IT\Hoa Phat 2024\HoaPhat2024\HoaPhatSoftware2024\DBRepositories\obj\Debug\net
 D:\IT\Hoa Phat 2024\HoaPhat2024\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.pdb
 D:\IT\Hoa Phat 2024\HoaPhat2024\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.genruntimeconfig.cache
 D:\IT\Hoa Phat 2024\HoaPhat2024\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\ref\DBRepositories.dll
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\bin\Debug\net6.0\DBRepositories.deps.json
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\bin\Debug\net6.0\DBRepositories.runtimeconfig.json
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\bin\Debug\net6.0\DBRepositories.dll
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\bin\Debug\net6.0\DBRepositories.pdb
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.csproj.AssemblyReference.cache
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.AssemblyInfoInputs.cache
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.AssemblyInfo.cs
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.csproj.CoreCompileInputs.cache
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.sourcelink.json
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.dll
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\refint\DBRepositories.dll
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.pdb
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\DBRepositories.genruntimeconfig.cache
+D:\IT\Project repositories\hoa-phat-production-management\HoaPhatSoftware2024\DBRepositories\obj\Debug\net6.0\ref\DBRepositories.dll

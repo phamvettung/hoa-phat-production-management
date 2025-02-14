@@ -1,236 +1,240 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\",
+  "WorkspaceRootPath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\hoaphatapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\hoaphatapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\barcodequantityreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\barcodequantityreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportdefinitions\\barcodequantityreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\barcodequantityds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\barcodequantityds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportdefinitions\\barcodequantityds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\operatordatads.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\operatordatads.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportdefinitions\\operatordatads.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\modeldatads.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\modeldatads.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportdefinitions\\modeldatads.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\datareaderds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\reportdefinitions\\datareaderds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\reportdefinitions\\datareaderds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\devices\\handledatareceived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\devices\\handledatareceived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\devices\\handledatareceived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\devices\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\devices\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\devices\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\devices\\escale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\devices\\escale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\devices\\escale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\operatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\operatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\usercontrols\\operatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\classes\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\classes\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\classes\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\appsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\appsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\appsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\classes\\enumflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\classes\\enumflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\classes\\enumflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\errorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\errorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\errorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\authenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\authenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\authenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\productionorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\productionorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\productionorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\operatordetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\operatordetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\operatordetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\circularpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\circularpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\usercontrols\\circularpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\progressbarex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\progressbarex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\usercontrols\\progressbarex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\artanpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\artanpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\usercontrols\\artanpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\authenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\authenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\authenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbservices\\datareaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbservices\\datareaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|solutionrelative:dbservices\\datareaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\versionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\controlobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\controlobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\usercontrols\\controlobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbservices\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbservices\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|solutionrelative:dbservices\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbrepositories\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbrepositories\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|solutionrelative:dbrepositories\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbservices\\productionorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbservices\\productionorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|solutionrelative:dbservices\\productionorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\hoaphatapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\hoaphatapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbrepositories\\productionorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbrepositories\\productionorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|solutionrelative:dbrepositories\\productionorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\classes\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\classes\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\classes\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\hoaphatapp\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\hoaphatapp\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbrepositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbrepositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|solutionrelative:dbrepositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\artangradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\usercontrols\\artangradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\usercontrols\\artangradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbservices\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbservices\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4155A277-29DD-48D8-9E33-21C948DA45BB}|DBServices\\DBServices.csproj|solutionrelative:dbservices\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\productionorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\productionorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\productionorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\hoaphatapp\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\hoaphatapp\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AF5577-534A-47BC-9DBE-BCA5E44D33CF}|HoaPhatApp\\HoaPhatApp.csproj|solutionrelative:hoaphatapp\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\hoa phat 2024\\hoaphat2024\\hoaphatsoftware2024\\dbrepositories\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|d:\\it\\project repositories\\hoa-phat-production-management\\hoaphatsoftware2024\\dbrepositories\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{940AAFBD-D4E6-44D5-AD8C-41AA133F2511}|DBRepositories\\DBRepositories.csproj|solutionrelative:dbrepositories\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -240,16 +244,28 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 71,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "HoaPhatApp\\Properties\\Resources.resx",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "HoaPhatApp\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-14T05:30:51.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ReportForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs",
               "RelativeToolTip": "HoaPhatApp\\ReportForm.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,22 +274,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ReportForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\ReportForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:30:39.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BarcodeQuantityReport.rdlc [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityReport.rdlc",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityReport.rdlc",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportDefinitions\\BarcodeQuantityReport.rdlc",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityReport.rdlc [Design]",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityReport.rdlc [Design]",
               "RelativeToolTip": "HoaPhatApp\\ReportDefinitions\\BarcodeQuantityReport.rdlc [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
               "WhenOpened": "2024-12-24T07:48:23.863Z",
@@ -281,80 +297,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\HomeForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\HomeForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T05:35:36.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\MainForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:25:59.54Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-05T01:25:59.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoadingForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\LoadingForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\LoadingForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T00:51:24.799Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-17T00:51:24.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HistoryForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\HistoryForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs [Design]*",
-              "RelativeToolTip": "HoaPhatApp\\HistoryForm.cs [Design]*",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs [Design]",
+              "RelativeToolTip": "HoaPhatApp\\HistoryForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T01:15:01.347Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ModelDataDs.xsd",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\ModelDataDs.xsd",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\ModelDataDs.xsd",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportDefinitions\\ModelDataDs.xsd",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\ModelDataDs.xsd",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\ModelDataDs.xsd",
               "RelativeToolTip": "HoaPhatApp\\ReportDefinitions\\ModelDataDs.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
               "WhenOpened": "2024-12-24T08:15:58.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "OperatorDataDs.xsd",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\OperatorDataDs.xsd",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\OperatorDataDs.xsd",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportDefinitions\\OperatorDataDs.xsd",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\OperatorDataDs.xsd",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\OperatorDataDs.xsd",
               "RelativeToolTip": "HoaPhatApp\\ReportDefinitions\\OperatorDataDs.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
               "WhenOpened": "2024-12-24T08:16:01.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ReportForm.Designer.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.Designer.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportForm.Designer.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportForm.Designer.cs",
               "RelativeToolTip": "HoaPhatApp\\ReportForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -362,46 +376,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BarcodeQuantityDs.xsd",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityDs.xsd",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityDs.xsd",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportDefinitions\\BarcodeQuantityDs.xsd",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityDs.xsd",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\BarcodeQuantityDs.xsd",
               "RelativeToolTip": "HoaPhatApp\\ReportDefinitions\\BarcodeQuantityDs.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
               "WhenOpened": "2024-12-24T08:47:35.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DataReaderDs.xsd",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\DataReaderDs.xsd",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\DataReaderDs.xsd",
               "RelativeDocumentMoniker": "HoaPhatApp\\ReportDefinitions\\DataReaderDs.xsd",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\DataReaderDs.xsd",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ReportDefinitions\\DataReaderDs.xsd",
               "RelativeToolTip": "HoaPhatApp\\ReportDefinitions\\DataReaderDs.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
               "WhenOpened": "2024-12-24T08:15:22.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "HistoryForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\HistoryForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs*",
-              "RelativeToolTip": "HoaPhatApp\\HistoryForm.cs*",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HistoryForm.cs",
+              "RelativeToolTip": "HoaPhatApp\\HistoryForm.cs",
               "ViewState": "AgIAABUBAAAAAAAAAAAIwEYBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T04:27:54.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T04:27:54.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "PLC.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\PLC.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\PLC.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\Devices\\PLC.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\PLC.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\PLC.cs",
               "RelativeToolTip": "HoaPhatApp\\Devices\\PLC.cs",
               "ViewState": "AgIAABMBAAAAAAAAAAAiwAwBAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,11 +422,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\MainForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.cs",
               "RelativeToolTip": "HoaPhatApp\\MainForm.cs",
               "ViewState": "AgIAAG4BAAAAAAAAAAAAwK8BAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -421,11 +434,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "HandleDataReceived.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\HandleDataReceived.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\HandleDataReceived.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\Devices\\HandleDataReceived.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\HandleDataReceived.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\HandleDataReceived.cs",
               "RelativeToolTip": "HoaPhatApp\\Devices\\HandleDataReceived.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,11 +446,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "EScale.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\EScale.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\EScale.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\Devices\\EScale.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\EScale.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Devices\\EScale.cs",
               "RelativeToolTip": "HoaPhatApp\\Devices\\EScale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,11 +458,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "HomeForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\HomeForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.cs",
               "RelativeToolTip": "HoaPhatApp\\HomeForm.cs",
               "ViewState": "AgIAAJoDAAAAAAAAAAAuwLMDAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -457,11 +470,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\appsettings.json",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\appsettings.json",
               "RelativeDocumentMoniker": "HoaPhatApp\\appsettings.json",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\appsettings.json",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\appsettings.json",
               "RelativeToolTip": "HoaPhatApp\\appsettings.json",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwBkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -469,22 +482,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "ModelForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ModelForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\ModelForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:30:33.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "OperatorControl.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\OperatorControl.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\OperatorControl.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserControls\\OperatorControl.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\OperatorControl.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\OperatorControl.cs",
               "RelativeToolTip": "HoaPhatApp\\UserControls\\OperatorControl.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAcwGAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -492,11 +505,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "SettingForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\SettingForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs",
               "RelativeToolTip": "HoaPhatApp\\SettingForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -505,33 +518,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "SettingForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\SettingForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\SettingForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\SettingForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T15:40:37.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "AppSettingForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AppSettingForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\AppSettingForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\AppSettingForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AppSettingForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\AppSettingForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AppSettingForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:29:53.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "AppSettings.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\AppSettings.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\AppSettings.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\Classes\\AppSettings.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\AppSettings.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\AppSettings.cs",
               "RelativeToolTip": "HoaPhatApp\\Classes\\AppSettings.cs",
               "ViewState": "AgIAAKMAAAAAAAAAAAAwwLcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -539,22 +552,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "OperatorForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\OperatorForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\OperatorForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:30:35.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ControlObject.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ControlObject.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ControlObject.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserControls\\ControlObject.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ControlObject.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ControlObject.cs",
               "RelativeToolTip": "HoaPhatApp\\UserControls\\ControlObject.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAowEIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,11 +575,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "ProductionOrderRepo.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\ProductionOrderRepo.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\ProductionOrderRepo.cs",
               "RelativeDocumentMoniker": "DBRepositories\\ProductionOrderRepo.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\ProductionOrderRepo.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\ProductionOrderRepo.cs",
               "RelativeToolTip": "DBRepositories\\ProductionOrderRepo.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAnwBUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -574,11 +587,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ArtanPanel.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanPanel.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanPanel.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserControls\\ArtanPanel.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanPanel.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanPanel.cs",
               "RelativeToolTip": "HoaPhatApp\\UserControls\\ArtanPanel.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAcwEAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -586,11 +599,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "CircularPanel.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\CircularPanel.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\CircularPanel.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserControls\\CircularPanel.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\CircularPanel.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\CircularPanel.cs",
               "RelativeToolTip": "HoaPhatApp\\UserControls\\CircularPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -598,11 +611,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "ProgressBarEx.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ProgressBarEx.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ProgressBarEx.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserControls\\ProgressBarEx.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ProgressBarEx.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ProgressBarEx.cs",
               "RelativeToolTip": "HoaPhatApp\\UserControls\\ProgressBarEx.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -610,11 +623,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "VersionForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\VersionForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs",
               "RelativeToolTip": "HoaPhatApp\\VersionForm.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAvwCoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -623,11 +636,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "EnumFlag.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\EnumFlag.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\EnumFlag.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\Classes\\EnumFlag.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\EnumFlag.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\EnumFlag.cs",
               "RelativeToolTip": "HoaPhatApp\\Classes\\EnumFlag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -635,11 +648,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "DataReaderService.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\DataReaderService.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\DataReaderService.cs",
               "RelativeDocumentMoniker": "DBServices\\DataReaderService.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\DataReaderService.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\DataReaderService.cs",
               "RelativeToolTip": "DBServices\\DataReaderService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,11 +660,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "AuthenForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\AuthenForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs",
               "RelativeToolTip": "HoaPhatApp\\AuthenForm.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwEkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -660,11 +673,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "HomeForm.Designer.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.Designer.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\HomeForm.Designer.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HomeForm.Designer.cs",
               "RelativeToolTip": "HoaPhatApp\\HomeForm.Designer.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -672,11 +685,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "DbContextExtension.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\DbContextExtension.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\DbContextExtension.cs",
               "RelativeDocumentMoniker": "DBRepositories\\DbContextExtension.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\DbContextExtension.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\DbContextExtension.cs",
               "RelativeToolTip": "DBRepositories\\DbContextExtension.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -684,11 +697,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "ServiceExtension.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\ServiceExtension.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\ServiceExtension.cs",
               "RelativeDocumentMoniker": "DBServices\\ServiceExtension.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\ServiceExtension.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\ServiceExtension.cs",
               "RelativeToolTip": "DBServices\\ServiceExtension.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAgwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -696,11 +709,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "ProductionOrderService.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\ProductionOrderService.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\ProductionOrderService.cs",
               "RelativeDocumentMoniker": "DBServices\\ProductionOrderService.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\ProductionOrderService.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\ProductionOrderService.cs",
               "RelativeToolTip": "DBServices\\ProductionOrderService.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -708,18 +721,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 1,
               "Title": "HoaPhatApp",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
               "RelativeDocumentMoniker": "HoaPhatApp\\HoaPhatApp.csproj",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
               "RelativeToolTip": "HoaPhatApp\\HoaPhatApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T00:52:23.962Z"
+              "WhenOpened": "2024-09-23T00:52:23.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -729,11 +743,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Excel.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\Excel.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\Excel.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\Classes\\Excel.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\Excel.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Classes\\Excel.cs",
               "RelativeToolTip": "HoaPhatApp\\Classes\\Excel.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAuwB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -741,11 +755,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Program.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Program.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\Program.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\Program.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\Program.cs",
               "RelativeToolTip": "HoaPhatApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -753,11 +767,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "AccountRepo.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\AccountRepo.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\AccountRepo.cs",
               "RelativeDocumentMoniker": "DBRepositories\\AccountRepo.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\AccountRepo.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\AccountRepo.cs",
               "RelativeToolTip": "DBRepositories\\AccountRepo.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAQwFcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -765,24 +779,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\MainForm.Designer.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\MainForm.Designer.cs",
               "RelativeToolTip": "HoaPhatApp\\MainForm.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T00:54:38.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T00:54:38.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "LoadingForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\LoadingForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\LoadingForm.cs",
               "RelativeToolTip": "HoaPhatApp\\LoadingForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -790,11 +803,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "ArtanGradientPanel.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanGradientPanel.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanGradientPanel.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserControls\\ArtanGradientPanel.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanGradientPanel.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserControls\\ArtanGradientPanel.cs",
               "RelativeToolTip": "HoaPhatApp\\UserControls\\ArtanGradientPanel.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -802,11 +815,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "UserForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs",
               "RelativeToolTip": "HoaPhatApp\\UserForm.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -815,11 +828,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\AccountService.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\AccountService.cs",
               "RelativeDocumentMoniker": "DBServices\\AccountService.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\AccountService.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\AccountService.cs",
               "RelativeToolTip": "DBServices\\AccountService.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAgwEIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -827,11 +840,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "ModelForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ModelForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ModelForm.cs",
               "RelativeToolTip": "HoaPhatApp\\ModelForm.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAcwG8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -839,11 +852,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "ProductionOrderForm.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ProductionOrderForm.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs",
               "RelativeToolTip": "HoaPhatApp\\ProductionOrderForm.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAowDkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -852,11 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "Operator.cs",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\Entities\\Operator.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\Entities\\Operator.cs",
               "RelativeDocumentMoniker": "DBRepositories\\Entities\\Operator.cs",
-              "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\Entities\\Operator.cs",
+              "ToolTip": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\Entities\\Operator.cs",
               "RelativeToolTip": "DBRepositories\\Entities\\Operator.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA0wBcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -864,69 +877,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "OperatorDetailForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorDetailForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorDetailForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\OperatorDetailForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorDetailForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\OperatorDetailForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\OperatorDetailForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:30:34.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ProductionOrderForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ProductionOrderForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\ProductionOrderForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ProductionOrderForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T07:37:00.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ErrorForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ErrorForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\ErrorForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\ErrorForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ErrorForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\ErrorForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\ErrorForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T08:25:57.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "AuthenForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\AuthenForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\AuthenForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\AuthenForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T01:32:23.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "VersionForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\VersionForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\VersionForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\VersionForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T08:10:08.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "UserForm.cs [Design]",
-              "DocumentMoniker": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs",
+              "DocumentMoniker": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs",
               "RelativeDocumentMoniker": "HoaPhatApp\\UserForm.cs",
               "ToolTip": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs [Design]",
-              "RelativeToolTip": "HoaPhatApp\\UserForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T08:07:19.975Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

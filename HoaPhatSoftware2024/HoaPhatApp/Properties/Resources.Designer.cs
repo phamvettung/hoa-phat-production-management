@@ -103,49 +103,9 @@ namespace HoaPhatApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dashboard_23 {
-            get {
-                object obj = ResourceManager.GetObject("dashboard-23", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap dashboard_24 {
-            get {
-                object obj = ResourceManager.GetObject("dashboard-24", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap dashboard_25 {
-            get {
-                object obj = ResourceManager.GetObject("dashboard-25", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap dashboard_40 {
             get {
                 object obj = ResourceManager.GetObject("dashboard-40", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap database_24 {
-            get {
-                object obj = ResourceManager.GetObject("database-24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -273,16 +233,6 @@ namespace HoaPhatApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap plan_40 {
-            get {
-                object obj = ResourceManager.GetObject("plan-40", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap product_30 {
             get {
                 object obj = ResourceManager.GetObject("product-30", resourceCulture);
@@ -313,16 +263,6 @@ namespace HoaPhatApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap report_24 {
-            get {
-                object obj = ResourceManager.GetObject("report-24", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap report_35 {
             get {
                 object obj = ResourceManager.GetObject("report-35", resourceCulture);
@@ -343,39 +283,9 @@ namespace HoaPhatApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap setting_24 {
-            get {
-                object obj = ResourceManager.GetObject("setting-24", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap setting_32 {
-            get {
-                object obj = ResourceManager.GetObject("setting-32", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap setting_40 {
             get {
                 object obj = ResourceManager.GetObject("setting-40", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap skip_40 {
-            get {
-                object obj = ResourceManager.GetObject("skip-40", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -396,16 +306,6 @@ namespace HoaPhatApp.Properties {
         internal static System.Drawing.Bitmap update_40 {
             get {
                 object obj = ResourceManager.GetObject("update-40", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap user_24 {
-            get {
-                object obj = ResourceManager.GetObject("user-24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

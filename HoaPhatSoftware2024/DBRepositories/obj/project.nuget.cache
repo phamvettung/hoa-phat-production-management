@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wxbvbn9klGo=",
+  "dgSpecHash": "FqWrk9QXdho=",
   "success": true,
-  "projectFilePath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj",
+  "projectFilePath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

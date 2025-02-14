@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HoaPhatApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67e99be8162c0cde64ce226fc40da0f119c15960")]
 [assembly: System.Reflection.AssemblyProductAttribute("HoaPhatApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HoaPhatApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

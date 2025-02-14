@@ -3222,11 +3222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
+      "projectUniqueName": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
       "projectName": "HoaPhatApp",
-      "projectPath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
+      "projectPath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\obj\\",
+      "outputPath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3249,8 +3249,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\DBServices.csproj": {
-              "projectPath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBServices\\DBServices.csproj"
+            "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\DBServices.csproj": {
+              "projectPath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBServices\\DBServices.csproj"
             }
           }
         }
@@ -3263,9 +3263,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -3307,7 +3307,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

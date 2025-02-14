@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj": {}
+    "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj": {}
   },
   "projects": {
-    "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj": {
+    "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj",
+        "projectUniqueName": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj",
         "projectName": "DBRepositories",
-        "projectPath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj",
+        "projectPath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\DBRepositories.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\DBRepositories\\obj\\",
+        "outputPath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\DBRepositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

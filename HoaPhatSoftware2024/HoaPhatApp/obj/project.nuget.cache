@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ir6jp5C/3jM=",
+  "dgSpecHash": "qUbDD71LEgk=",
   "success": true,
-  "projectFilePath": "D:\\IT\\Hoa Phat 2024\\HoaPhat2024\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
+  "projectFilePath": "D:\\IT\\Project repositories\\hoa-phat-production-management\\HoaPhatSoftware2024\\HoaPhatApp\\HoaPhatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\dg.advanceddatagridview\\1.2.29202.13\\dg.advanceddatagridview.1.2.29202.13.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",

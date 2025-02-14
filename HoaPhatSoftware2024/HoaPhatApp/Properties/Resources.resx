@@ -148,9 +148,6 @@
   <data name="product-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\product-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="setting-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\setting-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="reader-50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\reader-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -163,14 +160,8 @@
   <data name="open-40" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\open-40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="user-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\user-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="weight-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\weight-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="report-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\report-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="next-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\next-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,17 +172,8 @@
   <data name="setting-40" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\setting-40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="setting-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\setting-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="operator-50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="dashboard-25" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dashboard-25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="skip-40" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\skip-40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="delete-40" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\delete-40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,20 +181,11 @@
   <data name="user-40" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user-40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dashboard-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dashboard-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Intech_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Intech-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dashboard-23" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dashboard-23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="reader-55" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\reader-55.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="database-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\database-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="list-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\list-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

@@ -509,7 +509,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Sai số cho phép (%)</Value>
+                                  <Value>Sai số cho phép (g)</Value>
                                   <Style>
                                     <FontSize>12pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
