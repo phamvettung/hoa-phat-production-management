@@ -7,10 +7,10 @@ Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắ
 - Hiển thị 04 trạng thái làm việc của công đoạn: Hoàn thành (màu xanh), Đang thực hiện (màu vàng), Chậm (màu đỏ), Bỏ qua (màu xám). Lưu lịch sử thời gian thao tác của mỗi công đoạn và đưa ra đánh giá "Đạt" hoặc "Chưa đạt".
 - Quản lý Model: thêm, sửa, xóa, cài đặt thời gian thực hiện cho công đoạn, bỏ qua công đoạn của từng Model.
 - Cài đặt khối lượng cho từng Model và sai số cho phép.
-- Thu thập số serial (barcode dán trên máy) và khối lượng. Đưa ra đánh giá OK/NG và gửi tín hiệu đèn xanh (OK), đèn đỏ (NG) xuống băng chuyền.
-- Kết nối với Bộ điều khiển PLC Mitsubishi sử dụng thư viện MX Component.
+- Thu thập số serial (barcode dán trên máy) và khối lượng. Đưa ra kết quả OK/NG do khối lượng hoặc không đọc được serial và gửi tín hiệu đèn xanh (OK), đèn đỏ (NG) xuống băng chuyền.
+- Kết nối với Bộ điều khiển PLC Mitsubishi.
 - Kết nối với Đầu đọc mã vạch Hikrobot qua kết nối TCP/IP.
-- Kết nối với Đầu đọc Cân qua chuẩn truyền thông RS232.
+- Kết nối với Đầu đọc Cân qua truyền thông RS232.
 ### CÁC CÔNG NGHỆ SỬ DỤNG
 - Windows Forms, Entity Framework, MS SQL Server
 - Ngôn ngữ: C#
