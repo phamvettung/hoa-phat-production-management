@@ -14,5 +14,3 @@ Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắ
 ### CÁC CÔNG NGHỆ SỬ DỤNG
 - Windows Forms, Entity Framework, MS SQL Server
 - Ngôn ngữ: C#
-### HOẠT ĐỘNG HỆ THỐNG
-https://github.com/user-attachments/assets/acb1855b-7caf-45d5-8e40-e80cb79dbbca
