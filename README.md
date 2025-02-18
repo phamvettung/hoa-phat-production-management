@@ -1,4 +1,4 @@
-# Phầm mềm Quản lý sản xuất cho Dây chuyền lắp ráp máy lọc nước Hòa Phát
+# Phầm mềm Quản lý sản xuất cho Dây chuyền lắp ráp máy lọc nước Hòa Phát - 1 thành viên
 ![Hoa phat production management](/assets/dashboard.jpg)
 ### NGUYÊN LÝ HOẠT ĐỘNG
 Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắp ráp, người công nhân được phép thực hiện trong 1 khoảng thời gian. Sau khi thực hiện lắp ráp xong, người công nhân nhấn nút hoàn hoàn để máy được chuyển đến các công đoạn tiếp theo. Trường hợp vượt quá thời gian cho phép sẽ có đèn, còi cảnh báo và hiển thị cảnh báo trên phần mềm.
