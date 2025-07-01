@@ -1,4 +1,4 @@
-# Phầm mềm Quản lý sản xuất cho Dây chuyền lắp ráp máy lọc nước
+# PHẦN MỀM QUẢN LÝ SẢN XUẤT CHO DÂY CHUYỀN LẮP RÁP HÒA PHÁT
 ![Hoa phat production management](/assets/dashboard.jpg)
 ### NGUYÊN LÝ HOẠT ĐỘNG
 Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắp ráp, người công nhân được phép thực hiện trong 1 khoảng thời gian. Sau khi thực hiện lắp ráp xong, người công nhân nhấn nút hoàn hoàn để máy được chuyển đến các công đoạn tiếp theo. Trường hợp vượt quá thời gian cho phép sẽ có đèn, còi cảnh báo và hiển thị cảnh báo trên phần mềm.
@@ -14,5 +14,3 @@ Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắ
 ### CÁC CÔNG NGHỆ SỬ DỤNG
 - Windows Forms, Entity Framework, MS SQL Server
 - Ngôn ngữ: C#
-### HOẠT ĐỘNG HỆ THỐNG
-https://github.com/user-attachments/assets/acb1855b-7caf-45d5-8e40-e80cb79dbbca
