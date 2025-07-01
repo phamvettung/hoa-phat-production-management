@@ -13,7 +13,7 @@ Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắ
 ![Hoa phat production management](/assets/hoaphat_diagram.PNG)
 - Kết nối tới Bộ điều khiển PLC, đọc trạng thái của thiết bị, gửi tín hiệu điều khiển.
 - Kết nối với 02 đầu đọc mã vạch, đọc số serial theo 2 hướng trên sản phẩm.
-- Kết nối với đầu đọc cân. Đo khối lượng sản phẩm sau khi hoàn thiện lắp ráp.
+- Kết nối với đầu đọc cân, đo khối lượng sản phẩm sau khi hoàn thiện lắp ráp.
 ### CÁC CÔNG NGHỆ SỬ DỤNG
 - Windows Forms, Entity Framework, MS SQL Server
 - Ngôn ngữ: C#
