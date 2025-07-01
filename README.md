@@ -15,5 +15,5 @@ Trên dây chuyền sản xuất được chia thành nhiều công đoạn lắ
 - Kết nối với 02 đầu đọc mã vạch, đọc số serial theo 2 hướng trên sản phẩm.
 - Kết nối với đầu đọc cân, đo khối lượng sản phẩm sau khi hoàn thiện lắp ráp.
 ### CÁC CÔNG NGHỆ SỬ DỤNG
-- Windows Forms, Entity Framework, MS SQL Server
-- Ngôn ngữ: C#
+- Windows Forms, Entity Framework
+- MS SQL Server
