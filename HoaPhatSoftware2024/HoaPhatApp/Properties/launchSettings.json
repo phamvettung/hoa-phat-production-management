@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "HoaPhatApp": {
-      "commandName": "Project",
-      "nativeDebugging": false
-    }
-  }
-}
